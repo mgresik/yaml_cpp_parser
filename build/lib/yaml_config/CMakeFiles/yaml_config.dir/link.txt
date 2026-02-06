@@ -1,2 +1,0 @@
-/usr/bin/ar qc libyaml_config.a CMakeFiles/yaml_config.dir/src/demo_config_manager.cpp.o CMakeFiles/yaml_config.dir/src/demo_config.cpp.o
-/usr/bin/ranlib libyaml_config.a
